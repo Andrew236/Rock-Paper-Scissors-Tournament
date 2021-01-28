@@ -98,5 +98,5 @@ while playAgain:
     elif computer_score < user_score:
         print(f"Congrats you won after playing {rounds} rounds")
     else:
-        print("Looks like you guys tied after playing {rounds} rounds")
+        print(f"Looks like you guys tied after playing {rounds} rounds")
     
